@@ -1,3 +1,3 @@
 Editanto o arquivo Desafio Git na Branch_TreinamentoGit
 
-Verificando se exibe conflito.
+Verificando se exibe conflito
